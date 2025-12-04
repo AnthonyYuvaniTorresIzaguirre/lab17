@@ -25,4 +25,4 @@ jobs:
           context: ./node
           file: ./node/Dockerfile
           push: true
-          tags: ghcr.io/jorgechicana/servidor-app:latest
+          tags: ghcr.io/AnthonyYuvaniTorresIzaguirre/servidor-app:latest
